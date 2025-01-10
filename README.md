@@ -1,6 +1,5 @@
 <h2 align="left">Hi 👋! My name is Salma Jedidi and I'm a software engineer from Tunisia</h2>
 <br>
-<br>
 
 ###
 ###
